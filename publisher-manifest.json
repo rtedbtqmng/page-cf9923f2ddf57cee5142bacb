@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d42759e22cf42420adfa58d6",
+  "owner": "rtedbtqmng",
+  "repo": "page-cf9923f2ddf57cee5142bacb",
+  "title": "Connecting",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cf9923f2ddf57cee5142bacb",
+      "a": "Connecting",
+      "b": "",
+      "entity": "Connecting",
+      "brand": "Connecting",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ef7330cb0873bcc08f73b4921e5e42a952cce22e606898c7048d877e5ddcc3b2",
+      "content": {
+        "keyword1": "Connecting",
+        "keyword2": "",
+        "primary_entity": "Connecting",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Connecting 是专注网络加速的官方服务，提供机场订阅与 VPN 客户端下载，覆盖多端设备、流媒体解锁与游戏专线，助您稳定跨境访问。",
+          "AI_DESCRIPTION": "Connecting 是专注网络加速的官方服务，提供机场订阅与 VPN 客户端下载，覆盖多端设备、流媒体解锁与游戏专线，助您稳定跨境访问。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#FFF9F6;color:#222;font-size:16px;line-height:1.65}.wrap{max-width:960px;margin:0 auto;padding:12px 16px}header{background:#fff;border-bottom:3px solid #E45A4A;padding:12px 0}.brand{font-weight:700;color:#E45A4A;margin:0 0 8px;font-size:1.05rem}nav ul{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:8px 14px}nav a{color:#C94A3C;font-weight:600}h1{font-size:1.7rem;color:#E45A4A;margin:0 0 8px}h2{font-size:1.3rem;color:#C94A3C;margin:1.4rem 0 0.7rem;padding-bottom:4px;border-bottom:2px solid #F0E4DE}h3{font-size:1.08rem;margin:0.9rem 0 0.4rem}p{margin:0.5rem 0}a{color:#E45A4A}.cards{display:flex;flex-wrap:wrap;gap:12px;margin:12px 0}.card{background:#fff;border:1px solid #F0E4DE;border-radius:10px;padding:14px;flex:1 1 250px}.card.featured{border:2px solid #E45A4A;box-shadow:0 4px 14px rgba(228,90,74,.18)}.badge{display:inline-block;background:#E45A4A;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-left:6px;vertical-align:middle}.price{font-size:1.45rem;font-weight:700;color:#E45A4A;margin:6px 0}.annual{font-size:0.92rem;color:#666}.card ul{margin:8px 0 0;padding-left:1.15rem}.card li{margin:4px 0}.ad{background:#FFF0EB;border:1px dashed #E45A4A;padding:10px;text-align:center;margin:14px 0;border-radius:8px;color:#555}details{background:#fff;border:1px solid #F0E4DE;border-radius:8px;padding:10px 14px;margin:8px 0}summary{font-weight:600;color:#C94A3C}footer{border-top:1px solid #F0E4DE;margin-top:8px;padding:8px 0 24px;font-size:0.92rem;color:#555}footer h3{color:#C94A3C}.map a,.friends a{margin-right:12px;display:inline-block;margin-bottom:6px}ol{padding-left:1.2rem}ol li{margin:6px 0}</style><header><div class=\"wrap\"><p class=\"brand\">Connecting 官网</p><nav><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐订阅</a></li><li><a href=\"#clients\">客户端下载</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></div></header><main><div class=\"wrap\"><h1>Connecting 官方网站</h1><p>Connecting 提供机场订阅与 VPN 网络加速，支持多端客户端导入，覆盖日常跨境访问、流媒体与游戏线路。</p><section id=\"intro\"><h2>Connecting 品牌简介</h2><p>Connecting 是面向个人与团队的网络加速品牌，以机场订阅为核心，兼容主流 VPN 客户端协议。我们用清晰的流量与设备规则，降低配置成本，让用户把时间花在连接而不是排查上。</p><p>Connecting 节点分层提供：基础线路满足网页与协作，旗舰与团队套餐强化原生流媒体解锁和 IPLC 游戏优化。本页为 Connecting 官方网站信息入口，说明套餐、客户端选择、导入步骤与常见问题，便于对照后完成订阅与下载指引。</p></section><div class=\"ad\">广告：Connecting 渠道与品牌合作咨询，请通过官网标明的官方渠道联系。</div><section id=\"plans\"><h2>Connecting 套餐与机场订阅</h2><p>按月开通，按年续费更省。订阅链接可导入 Clash、Shadowrocket 等客户端。以下为 Connecting 现行公开套餐结构，便于按流量与设备数选择。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"clients\"><h2>客户端选择与官网下载指引</h2><p>Connecting 强调客户端选择自由度：同一份机场订阅可在多款合规客户端中使用。请先按系统安装客户端，再粘贴 Connecting 订阅地址。本站不托管安装包，下载请走应用商店或开发者站点。</p><h3>Windows 与 macOS</h3><p>桌面端可选用 Clash 图形客户端或 v2rayN 一类工具。导入订阅、更新节点后开启系统代理或 TUN。办公场景建议固定一组低延迟节点，减少反复切换。</p><h3>iOS</h3><p>常用 Shadowrocket、Stash 或 Surge。从 App Store 完成官方下载后，添加 Connecting 订阅 URL，更新策略组即可连接。</p><h3>Android</h3><p>推荐 Clash Meta 等可导入订阅的客户端。注意授权 VPN 权限与本地通知，以便节点更新失败时及时处理。</p><h3>路由器与团队环境</h3><p>OpenClash、PassWall 等可直接填写订阅。团队版支持定制分流，把办公域名与游戏端口分开走线，避免互相抢带宽。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公</h3><p>文档协作、邮箱与会议在 Connecting 普通或优质节点上更稳，旗舰版工单可优先处理突发线路问题。</p><h3>流媒体观看</h3><p>旗舰版与团队版侧重全节点原生解锁，适合国际影视与音乐平台。基础版提供基础解锁，适合轻度尝鲜。</p><h3>游戏加速</h3><p>对延迟敏感的对战与主机在线，可优先使用 IPLC 优化线路。建议游戏与下载任务错峰，避免打满月度流量。</p><h3>学习与资料</h3><p>访问开源仓库、课程平台与文献站点时，选择靠近目标区域的节点，浏览与拉取更顺畅。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>从订阅到连通</h3><ol><li>在 Connecting 选择基础版、旗舰版或团队版并完成开通。</li><li>于账户页复制机场订阅链接（Clash 或通用格式）。</li><li>打开已安装客户端，添加订阅并更新节点列表。</li><li>按延迟或地区筛选节点，开启代理后访问目标服务验证。</li><li>若失败，切换节点或通过套餐对应的工单渠道反馈。</li></ol><h3>日常使用建议</h3><p>定期更新订阅以同步节点。Connecting 流量按周期统计，接近上限可升级套餐。仅在需要加速时开启客户端，有助于把配额用在关键场景。设备数超限时，先在客户端断开闲置会话再接入新设备。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Connecting 支持哪些设备与客户端？</summary><p>Connecting 订阅可用于 Windows、macOS、iOS、Android 及常见路由器。客户端侧可选 Clash 系、Shadowrocket、Surge、Quantumult X、v2rayN 等，按系统从官方渠道下载后导入即可。</p></details><details><summary>如何完成 Connecting 客户端下载与订阅导入？</summary><p>先根据系统安装对应客户端，再在 Connecting 账户复制订阅 URL 并在客户端中添加。本官网提供选用说明，不提供第三方安装包，以避免来源不明的风险。</p></details><details><summary>三个套餐分别适合什么人？</summary><p>基础版适合轻度浏览与 3 台设备；旗舰版面向日常流媒体与游戏，含 300GB、5 设备和优先支持；团队版覆盖 20 台设备与 1000GB，并提供定制路由和客户经理。</p></details><details><summary>年付如何计算？</summary><p>按年付相当于约 10 个月月费：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。适合长期使用 Connecting 机场订阅的用户。</p></details><details><summary>Connecting 能否用于流媒体和游戏？</summary><p>可以。基础版含基础流媒体解锁；旗舰版与团队版提供全节点原生解锁，旗舰版另含 IPLC 游戏加速优化。实际体验随节点与当地网络变化，可在客户端中切换。</p></details><details><summary>流量用尽或设备超限怎么办？</summary><p>流量按月重置，用尽后可升级套餐或等待下一周期。设备超限时断开闲置终端。旗舰版可走优先工单，团队版可联系专属客户经理协助调整。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"ad\">广告位：合作展示与加速相关信息服务。</div><h3>网站地图</h3><p class=\"map\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐订阅</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></p><h3>友情链接</h3><p class=\"friends\"><a href=\"#\">网络工具导航</a><a href=\"#\">客户端选用手册</a><a href=\"#\">加速资讯</a></p><p>© Connecting 官方网站。本页介绍 Connecting 机场订阅、VPN 梯子、网络加速器与客户端下载指引。</p><p><a href=\"#\">返回顶部</a></p></div></footer>",
+          "hash": "16638eeb96941f15548361bf8662f48a7a9576c7967ede7960c672882f98dd3f",
+          "seo": {
+            "title": "Connecting 官方网站 | 机场订阅、VPN 梯子与网络加速客户端下载",
+            "keywords": "Connecting,Connecting VPN,Connecting机场,VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC加速,流媒体解锁",
+            "description": "Connecting 是专注网络加速的官方服务，提供机场订阅与 VPN 客户端下载，覆盖多端设备、流媒体解锁与游戏专线，助您稳定跨境访问。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "owaxjjw.cn",
+    "host": "p-8f5515b982.owaxjjw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "l3xcda.cn",
+      "url": "https://l3xcda.cn/",
+      "label": "Connecting",
+      "apex": "l3xcda.cn",
+      "kind": null,
+      "identity": "dytj76/page-c02cea3dc16eaaab3588f510"
+    },
+    {
+      "host": "l7oe85.cn",
+      "url": "https://l7oe85.cn/",
+      "label": "Connecting",
+      "apex": "l7oe85.cn",
+      "kind": null,
+      "identity": "ureab8q9j/page-ce4234193a677cca309549ac"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "dfaebb32a949355aade21b3a3900b4e72f6f159284b327333445c1d0b7ef56f5",
+    "sitemap.xml": "e6c50c3e131524b586864b75587f778cde4207ddc6d8313d6b0dbb9fdc69ca22",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e67834cf0b8450d6d76fc144a20dd876a3861c653769d428a9e113120d85192c",
+    "robots.txt": "dec32263b7866e62065c6a8cfc5daca8edfe73d016e894b4d25e01b16b9559fe",
+    "bf7757d81e576031aac5f4d530350d88.txt": "4f9abadaeb75f959bf29dfb03af8f435f2829569b0df1cff6d9023b809522181"
+  },
+  "revision": "5d309044b63deb0257f1089cab0218b2d3b2945f7b05b675fe68e49a746cfff5"
+}
